@@ -1,4 +1,4 @@
-# Hydroelectric-plants
+#  Multi-criteria optimization for model and filter selection applied to hydroelectric power plants
 
 This repository presents a multi-criteria optimization strategy for model and filter selection applied to improve the management of hydroelectric power plants.
 The strategy considers the Optuna based on a tree-structured Parzen estimator to select the predictor and the filter for the time series. The algorithm for the proposed method is available [here](https://github.com/SFStefenon/Hydroelectric-plants/blob/main/Proposed_model.ipynb).
