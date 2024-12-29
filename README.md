@@ -7,7 +7,7 @@ The standard recurrent neural network (RNN), dilated RNN, long short-term memory
 
 The Christiano Fitzgerald, Hodrick-Prescott, season-trend decomposition using locally estimated scatterplot smoothing (LOESS), and multiple season-trend decomposition using LOESS filters are evaluated. 
 
-The study considers the inflow data from the Belo Monte dam in Brazil. For comparison purposes, daily measurements are considered for the period from December 2021 to December 2024, resulting in 1,095 observations considering three years of 365 days. The dataset is available [here](), for analysis of other power plants' further evaluations or comparisons can be made based on the [original dataset](https://dados.ons.org.br/dataset/dados-hidrologicos-res).
+The study considers the inflow data from the Belo Monte dam in Brazil. For comparison purposes, daily measurements are considered for the period from December 2021 to December 2024, resulting in 1,095 observations considering three years of 365 days. The dataset is available [here](), for analysis of other power plants' further evaluations or comparisons can be made based on the [original data](https://dados.ons.org.br/dataset/dados-hidrologicos-res).
 
 
 
