@@ -3,7 +3,8 @@
 This repository presents a multi-criteria optimization strategy for model and filter selection applied to improve the management of hydroelectric power plants.
 The strategy considers the Optuna based on a tree-structured Parzen estimator to select the predictor and the filter for the time series. The algorithm for the proposed method is available here.
 
-![image](https://github.com/user-attachments/assets/0a0d8cbd-66a2-4ca2-863b-9e297211342c)
+![image](https://github.com/user-attachments/assets/3b62062c-a716-49be-92e1-d0f7323e1b05)
+
 
 
 The study considers the inflow data from the Belo Monte dam in Brazil. For comparison purposes, daily measurements are considered for the period from December 2021 to December 2024, resulting in 1,095 observations considering three years of 365 days. The dataset is available [here](), for analysis of other power plants' further evaluations or comparisons can be made based on the [original data](https://dados.ons.org.br/dataset/dados-hidrologicos-res).
