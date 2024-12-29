@@ -12,6 +12,11 @@ The Christiano Fitzgerald (CF), Hodrick-Prescott (HP), season-trend decompositio
 ![image](https://github.com/user-attachments/assets/908cbbeb-41c5-47fb-acd8-4cc28c75fd34)
 
 
+Thank you.
+
+Dr. Stefano Frizzo Stefenon 
+
+Regina, Canada, January 01, 2025.
 
 
 
