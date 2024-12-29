@@ -9,7 +9,8 @@ The standard recurrent neural network (RNN), dilated RNN, long short-term memory
 
 The Christiano Fitzgerald (CF), Hodrick-Prescott (HP), season-trend decomposition using LOESS (STL), and multiple season-trend decomposition using LOESS (MSTL) filters are evaluated. An example of the application of these filters is presented in the following:
 
-![image](https://github.com/user-attachments/assets/43931342-542e-4729-8bb7-6e480021a69e)
+![image](https://github.com/user-attachments/assets/e371d479-1ac7-4aa6-a054-8bcef4c7a9d7)
+
 
 
 
