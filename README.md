@@ -41,7 +41,7 @@ An example of the application of these filters is presented in the following:
 
 ---
 
-Thank you;
+Thank you
 
 Dr. **Stefano Frizzo Stefenon**
 
