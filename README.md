@@ -27,7 +27,8 @@ Initially, an analysis is performed to evaluate the standard model. Then the def
 
 An example of the MCOMFS application for model selection, the definition of batch size, and learning rate is:
 
-![image](https://github.com/user-attachments/assets/523dbfda-eb2b-429b-b968-873fd8765458)
+![image](https://github.com/user-attachments/assets/a74dac1c-9f42-4d7a-ac94-466be9d8b7ef)
+
 
 The study considers the inflow data from the Belo Monte dam (northern part of the Xingu River in the state of Pará, Brazil). For comparison purposes, daily measurements are considered for the period from December 2021 to December 2024, resulting in 1,095 observations considering three years of 365 days. The dataset used for the presented experiments is available [here](https://github.com/SFStefenon/Hydroelectric-plants/blob/main/Data/DADOS_HIDROLOGICOS_RES.csv). For analysis of other power plants' further evaluations or comparisons, the original dataset is available [here](https://github.com/SFStefenon/Hydroelectric-plants/tree/main/Data/Original).
 
