@@ -1,9 +1,11 @@
 #  Multi-Criteria Optimization for Model and Filter Selection
 
 This repository presents a Multi-Criteria Optimization strategy for Model and Filter Selection (MCOMFS) applied to improve the management of hydroelectric power plants.
-The strategy considers the Optuna based on a tree-structured Parzen estimator to select the predictor and the filter for the time series. The algorithm for the proposed MCOMFS is available [here](https://github.com/SFStefenon/Hydroelectric-plants/blob/main/Proposed_model.ipynb). 
+The strategy considers the Optuna based on a tree-structured Parzen estimator to select the predictor and the filter for the time series. 
 
-The proposed MCOMFS is organized as follows:
+---
+
+The algorithm for the proposed MCOMFS is available [here](https://github.com/SFStefenon/Hydroelectric-plants/blob/main/Proposed_model.ipynb). The MCOMFS is organized as follows:
 
 > **Loading:** Load the libraries, load the dataset, and preprocessing.
 
