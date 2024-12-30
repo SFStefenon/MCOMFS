@@ -33,7 +33,10 @@ The study considers the inflow data from the Belo Monte dam (northern part of th
 
 The standard recurrent neural network (RNN), dilated RNN, long short-term memory (LSTM), temporal fusion transformer (TFT), temporal convolutional neural (TCN), deep non-parametric time series forecaster (DeepNPTS), neural basis expansion analysis for time series forecasting (N-BEATS), and neural hierarchical interpolation for time series forecasting (NHITS) models were considered. These models are available at the [Nixtla repository](https://github.com/Nixtla/neuralforecast).
 
-The Christiano Fitzgerald (CF), Hodrick-Prescott (HP), season-trend decomposition using LOESS (STL), and multiple season-trend decomposition using LOESS (MSTL) filters are evaluated. An example of the application of these filters is presented in the following:
+The Christiano Fitzgerald (CF), Hodrick-Prescott (HP), season-trend decomposition using LOESS (STL), and multiple season-trend decomposition using LOESS (MSTL) filters are evaluated. 
+These filters are available at the [statsmodels repository](https://www.statsmodels.org/stable/tsa.html#time-series-filters).
+
+An example of the application of these filters is presented in the following:
 
 ![image](https://github.com/user-attachments/assets/908cbbeb-41c5-47fb-acd8-4cc28c75fd34)
 
