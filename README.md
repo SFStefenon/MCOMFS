@@ -23,7 +23,7 @@ The proposed MCOMFS is organized as follows:
 
 
 
-An example of the MCOMFS application is presented here:
+An example of the MCOMFS application for model selection and definition of batch size is presented here:
 
 ![image](https://github.com/user-attachments/assets/523dbfda-eb2b-429b-b968-873fd8765458)
 
