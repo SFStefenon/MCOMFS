@@ -31,13 +31,6 @@ An example of the MCOMFS application for model selection, the definition of batc
 
 
 
-
-![image](https://github.com/user-attachments/assets/a3fc3851-3175-42e0-954a-ca1d676700ee)
-
-
-![image](https://github.com/user-attachments/assets/a74dac1c-9f42-4d7a-ac94-466be9d8b7ef)
-
-
 The study considers the inflow data from the Belo Monte dam (northern part of the Xingu River in the state of Pará, Brazil). For comparison purposes, daily measurements are considered for the period from December 2021 to December 2024, resulting in 1,095 observations considering three years of 365 days. The dataset used for the presented experiments is available [here](https://github.com/SFStefenon/Hydroelectric-plants/blob/main/Data/DADOS_HIDROLOGICOS_RES.csv). For analysis of other power plants' further evaluations or comparisons, the original dataset is available [here](https://github.com/SFStefenon/Hydroelectric-plants/tree/main/Data/Original).
 
 The standard recurrent neural network (RNN), dilated RNN, long short-term memory (LSTM), temporal fusion transformer (TFT), temporal convolutional neural (TCN), deep non-parametric time series forecaster (DeepNPTS), neural basis expansion analysis for time series forecasting (N-BEATS), and neural hierarchical interpolation for time series forecasting (NHITS) models were considered. These models are available at the [Nixtla repository](https://github.com/Nixtla/neuralforecast).
