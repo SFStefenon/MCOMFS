@@ -23,10 +23,6 @@ Initially, an analysis is performed to evaluate the standard model. Then the def
 
 > **Benchmarking**: Compute several different models considering their default setups.
 
-
-![image](https://github.com/user-attachments/assets/dc42b92f-73da-434a-aaa6-6b9d4f85770c)
-
-
 ---
 
 An example of the MCOMFS application for model selection, definition of batch size and learning rate is presented here:
