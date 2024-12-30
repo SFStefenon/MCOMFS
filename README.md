@@ -25,7 +25,7 @@ Initially, an analysis is performed to evaluate the standard model. Then the def
 
 ---
 
-An example of the MCOMFS application for model selection, definition of batch size and learning rate is presented here:
+An example of the MCOMFS application for model selection, definition of batch size and learning rate is:
 
 ![image](https://github.com/user-attachments/assets/523dbfda-eb2b-429b-b968-873fd8765458)
 
