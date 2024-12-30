@@ -5,7 +5,7 @@ The strategy considers the Optuna based on a tree-structured Parzen estimator to
 
 ---
 
-, and it is organized as follows:
+Initially, an analysis is performed to evaluate the standard model. Then the definition of the optimized model setup is handled through multi-criteria optimization, and finally, the statistical analysis and benchmarking are conducted. The proposed MCOMFS algorithm is organized as follows:
 
 > **Loading:** Load the libraries, load the dataset, and preprocessing.
 
