@@ -6,11 +6,17 @@ The strategy considers the Optuna based on a tree-structured Parzen estimator to
 After loading the libraries and the dataset, the proposed analysis is divided according to:
 
 > **Standard model**: Run the TFT model considering its default setup and original dataset.
+
 > **Filter**: Compute the evaluated filter individuality (CF, HP, STL, and MSTL).
+
 > **Denoised model**: Run the TFT model considering the denoised time series.
+
 > **Optuna**: Compute the multi-criteria optimization for model and filter selection.
+
 > **Optimized**: Run the optimized model considering the denoised time series.
+
 > **Stats**: Run several experiments and save them for statistical evaluation.
+
 > **Benchmarking**: Compute several different models considering their default setups.
 
 
