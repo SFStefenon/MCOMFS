@@ -25,7 +25,7 @@ Initially, an analysis is performed to evaluate the standard model. Then the def
 
 ---
 
-An example of the optimization strategy for model selection, definition of batch size, and learning rate is given below:
+An example of the optimization strategy for model selection, definition of batch size, and learning rate is given:
 
 ![image](https://github.com/user-attachments/assets/59755450-118c-4099-980c-f4ef07a528cb)
 
