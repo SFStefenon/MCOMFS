@@ -44,3 +44,9 @@ An example of the application of these filters is presented in the following:
 Thank you
 
 Dr. **Stefano Frizzo Stefenon**
+
+Postdoctoral fellow at the University of Regina
+
+Faculty of Engineering and Applied Sciences
+
+Regina, SK, Canada, 2025.
