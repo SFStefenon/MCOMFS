@@ -41,6 +41,15 @@ An example of the application of these filters is presented in the following:
 
 ---
 
+Additional information can be found at the **[Original Paper](https://doi.org/10.1016/j.energy.2025.138688)**.
+
+Muniz, R. N., Stefenon, S. F., Buratto, W. G., Nied, A., Cardoso, R., Yamaguchi, C. K., & Yow, K. C. Time series forecasting based on multi-criteria optimization for model and filter selection applied to hydroelectric power plants, Energy, vol. 337, p. 138688, 2025.
+
+BibTeX:
+`@article{r138688, AUTHOR = {Muniz, Rafael Ninno and Stefenon, Stefano Frizzo and Buratto, William Gouv{\^e}a and Nied, Ademir and Cardoso, Rodolfo and Yamaguchi, Cristina Keiko and Yow, Kin-Choong}, TITLE = {Time series forecasting based on multi-criteria optimization for model and filter selection applied to hydroelectric power plants}, JOURNAL = {Energy}, VOLUME = {337}, YEAR = {2025}, PAGES = {138688}, DOI = {10.1016/j.energy.2025.138688}}`
+
+---
+
 Thank you
 
 Dr. **Stefano Frizzo Stefenon**
